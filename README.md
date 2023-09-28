@@ -1,6 +1,6 @@
 # Scientific Programming Concepts PH502/ACM40660 Autumn 2023
 
-For this assignment, you need to have an account on GitHub.com. After logged in to your account, fork this repository into your github account. From there; 
+For this assignment, you need to have an account on *[GitHub.com](https://github.com)*. After logged in to your account, fork this repository into your github account. From there; 
 
 - Clone the repo onto your local machine/sciprog using `git clone`
 - Create your own branch using `git branch` with the format `{FirstName}_{LastName}_{Brightspace/Canvas}`. Eg. `John_Smith_Brightspace`, then use `git checkout branch_name` to work on that branch
