@@ -15,7 +15,7 @@ This assignment will contribute 20% of your total marks to this module, so to en
 - Each practical is clearly commented and the repository should be well structured and laid out (i.e. have a folder for each practical). This includes having sufficient README markdown or .txt files explaining the contents of each folder, and instructions on how to use/run the programs (these do not need to be exhaustive, enough information so that the reader understands your code).
 
 - Although there is no “weekly deadline”, you should update this repo weekly following each practical with clear and concise commit messages. 
-Capture the output of the `git status` and `git log` commands ( eg. `git log > gitlog_output.txt` will write the output to a file called `gitlog_output.txt`), and **submit only this file to Brightspace/Canvas**. 
+At the end, capture the output of the `git status` and `git log` commands ( eg. `git log > gitlog_output.txt` will write the output to a file called `gitlog_output.txt`), and **submit only these files to Brightspace/Canvas**. 
 
 We are looking for stepwise development by committing code (and comments) on a regular basis. Marks will be deducted for;
 - Not commenting your code and poorly maintained/updated repositories
