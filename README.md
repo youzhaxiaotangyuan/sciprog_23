@@ -1,31 +1,27 @@
-# Scientific Programming Concepts PH502/ACM40660 Autumn 2021
+# Scientific Programming Concepts PH502/ACM40660 Autumn 2023
 
-Fork this repository into your github account. From there; 
+For this assignment, you need to have an account on GitHub.com. After logged in to your account, fork this repository into your github account. From there; 
 
 - Clone the repo onto your local machine/sciprog using `git clone`
-- Create your own branch using `git branch` with the format `{FirstName}_{LastName}_{Brightspace/Blackboard}`. Eg. `John_Smith_Blackboard`, then use `git checkout branch_name` to work on that branch
+- Create your own branch using `git branch` with the format `{FirstName}_{LastName}_{Brightspace/Canvas}`. Eg. `John_Smith_Brightspace`, then use `git checkout branch_name` to work on that branch
 - Create, edit and upload files using the `git add`, `commit` and `push` commands
-    - NB: You will need to generate a “*[personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)*” to push changes to this repo. Follow the instructions in the link above carefully, and when prompted for username and password (for first push only), use your “personal access token” as your password. 
+    - You will need to generate a “*[personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)*” to push changes to this repo. Follow the instructions in the link above carefully, and when prompted for username and password (for first push only), use your “personal access token” as your password. 
+    - For the duration of the semester you will need to update the repository regularly with the practical codes which will be covered in the live demo sessions on Tuesdays. Remember the differences between a local repository and the online version, so you will need to ‘push’ your changes rather than just committing them.
 
-For a step by step video guide, refer back to recording of Practical 2
+This assignment will contribute 20% of your total marks to this module, so to ensure that you get full marks;
 
-For the duration of the semester you will need to update the repository regularly with the practical codes which will be covered in the live demo sessions on Tuesdays. Remember the differences between a local repository and the online version, so you will need to ‘push’ your changes rather than just committing them.
+- All practicals from Week 2 onwards should be included in the repo and the code from each practical should be able to be run and compiled (on sciprog) once cloned by another user. You can use your own solution or the material covered in the demos.
 
-This assignment will contribute 10% of your total marks to this module, so to ensure that you get full marks;
+- Each practical is clearly commented and the repository should be well structured and laid out (i.e. have a folder for each practical). This includes having sufficient README markdown or .txt files explaining the contents of each folder, and instructions on how to use/run the programs (these do not need to be exhaustive, enough information so that the reader understands your code).
 
-All practicals from Week 2 onwards should be included in the repo and the code from each practical should be able to be run and compiled (on sciprog) once cloned by another user. You can use your own solution or the material covered in the demos.
-
-Each practical is clearly commented and the repository should be well structured and laid out (i.e. have a folder for each practical). This includes having sufficient README markdown or .txt files explaining the contents of each folder, and instructions on how to use/run the programs (these do not need to be exhaustive, enough information so that the reader understands your code).
-
-Although there is no “weekly deadline”, you should update this repo weekly following each practical with clear and concise commit messages. 
-Capture the output of the `git status` and `git log` commands ( eg. `git log > gitlog_output.txt` will write the output to a file called `gitlog_output.txt`), and submit this to Brightspace/Blackboard. 
+- Although there is no “weekly deadline”, you should update this repo weekly following each practical with clear and concise commit messages. 
+Capture the output of the `git status` and `git log` commands ( eg. `git log > gitlog_output.txt` will write the output to a file called `gitlog_output.txt`), and **submit only this file to Brightspace/Canvas**. 
 
 We are looking for stepwise development by committing code (and comments) on a regular basis. Marks will be deducted for;
 - Not commenting your code and poorly maintained/updated repositories
 - Uploaded code does not compile/unable to run
 - Ambiguous commit messages
 - All-in-one commit/push (i.e. uploading everything at once)
-
-NB: This repository should only be used for the practical sessions covered in the live demo sessions ONLY. Assignments 1 & 2 should not be added to the repo. If the regular assignments are uploaded to your repository then you will receive 0% for this assignment. Other assignments must be uploaded **separately** onto Brightspace or Blackboard.
+- This repository should only be used for the practical sessions covered in the live demo sessions ONLY. Assignments 1 & 2 should not be added to the repo. If the regular assignments are uploaded to your repository then you will receive 0% for this assignment.
 
 There are plentiful resources on git introductions, such as https://guides.github.com/introduction/git-handbook/ 
