@@ -5,8 +5,8 @@ For this assignment, you need to have an account on *[GitHub.com](https://github
 - Clone the repo onto your local machine/sciprog using `git clone`
 - Create your own branch using `git branch` with the format `{FirstName}_{LastName}_{Brightspace/Canvas}`. Eg. `John_Smith_Brightspace`, then use `git checkout branch_name` to work on that branch
 - Create, edit and upload files using the `git add`, `commit` and `push` commands
+    - You will need to generate a “*[personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)*” to push changes to this repo. Follow the instructions in the link above carefully, and when prompted for username and password, use your “personal access token” as your password.
     - For the duration of the semester you will need to update the repository regularly with the practical codes which will be covered in the live demo sessions on Tuesdays. Remember the differences between a local repository and the online version, so you will need to ‘push’ your changes rather than just committing them.
-    - You will need to generate a “*[personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)*” to push changes to this repo. Follow the instructions in the link above carefully, and when prompted for username and password, use your “personal access token” as your password. 
     
 This assignment will contribute 20% of your total marks to this module, so to ensure that you get full marks;
 
