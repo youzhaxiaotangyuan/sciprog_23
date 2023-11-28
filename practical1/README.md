@@ -1,0 +1,2 @@
+This is the README file for Practical 1. Inside this folder are two C files, one is printing, which outputs a program whose main function is to output information about an account number, subtotals, and totals to the console. The other is scaning, which outputs a program whose purpose is to accept two positive integers entered by the user and output those two integers along with their parity. If the user input is invalid or the entered integer is not a positive integer, the corresponding error message is printed.
+
