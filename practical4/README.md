@@ -1,0 +1,1 @@
+The program in this folder computes the value of tan(x) for every fifth degree of Angle in [0, 60] through a loop and stores the result in the tanValues global array. It then prints the contents of the array and uses the trapezoidal rule to calculate and print the area of the tan(x) curve in the range of [0, 60] degrees.
