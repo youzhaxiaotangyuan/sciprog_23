@@ -1,0 +1,1 @@
+This program first defines three matrices A, B, and C, and initializes the matrices A and B. Then, the matmult function is used to calculate the value of matrix C, and finally the three matrices are printed to the screen.
