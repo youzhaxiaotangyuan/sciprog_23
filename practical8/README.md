@@ -1,0 +1,1 @@
+This folder includes two programs, exercise8-1 and 8-2, which use iterative and recursive methods to compute the greatest common divisor of two integers, respectively. The user enters two integers, and the program calculates their greatest common divisor and outputs them.
