@@ -1,0 +1,2 @@
+In this program, the estimate_e function estimates the value of e through Taylor series expansion, where the order is entered by the user.
+In the case of higher order, due to the limitation of precision of floating point numbers, the cumulative error may cause the estimation to be inaccurate, which is the reason for the estimation variation at higher order polynomials. In numerical calculation, the calculation of higher order terms may be affected by the limited precision, resulting in the gradual accumulation of errors in the estimated value.
