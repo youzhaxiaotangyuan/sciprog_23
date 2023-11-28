@@ -1,0 +1,1 @@
+The program displays the first n terms of the Fibonacci sequence with the value n entered by the user. After running the program, it will prompt the user to enter the number of terms in the Fibonacci sequence to be displayed, and then display the sequence.
